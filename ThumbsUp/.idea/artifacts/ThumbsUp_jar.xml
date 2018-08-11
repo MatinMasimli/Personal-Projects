@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThumbsUp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThumbsUp_jar</output-path>
+    <root id="archive" name="ThumbsUp.jar">
+      <element id="module-output" name="ThumbsUp" />
+    </root>
+  </artifact>
+</component>
